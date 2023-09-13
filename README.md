@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=000033&height=150&section=header&text=seunghus&fontColor=ffffff&fontSize=70&animation=fadeIn)
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=000033&height=150&section=header&text=seunghus&fontColor=ffffff&fontSize=70&animation=fadeIn)
 
   # Hi there 👋
 ## 🎮 유니티 클라이언트 프로그래머입니다 🎮
