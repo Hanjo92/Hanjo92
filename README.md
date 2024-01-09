@@ -13,6 +13,8 @@
 
 🧩 2023.05 ~ 2023.07 퍼즐원 스튜디오 🧩
 
+🎹 2023.12 ~ 2024.01 미니레코드 🎹
+
 <img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-181717?style=for-the-badge&logo=CSharp&logoColor=white">
 
 [💻 Blog ](https://seunghus.tistory.com/) [💻 Home Page ](https://hanjo92.github.io/)
@@ -28,6 +30,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hanjo92&repo=PiggyBank)](https://github.com/Hanjo92/PiggyBank)
 
 🌱 I’m currently learning 🌱
+
+🇯🇵 Japanease
 
 <img src="https://img.shields.io/badge/Phaser-181717?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=white">
 
