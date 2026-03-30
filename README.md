@@ -29,10 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/Hanjo92">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hanjo92&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Seunghu's GitHub stats" height="192px"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Hanjo92&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Seunghu's GitHub stats" height="192px"/>
   </a>
   <a href="https://github.com/Hanjo92">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanjo92&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="192px"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hanjo92&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="192px"/>
   </a>
 </div>
 
@@ -42,26 +42,26 @@
 
 <div align="center">
   <a href="https://github.com/Hanjo92/unity-mcp-ui-layout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanjo92&repo=unity-mcp-ui-layout&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=unity-mcp-ui-layout&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/Hanjo92/clean-code-architecture-skill-pack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanjo92&repo=clean-code-architecture-skill-pack&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=clean-code-architecture-skill-pack&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <br/>
   <br/>
   <a href="https://github.com/Hanjo92/NobelWriter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanjo92&repo=NobelWriter&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=NobelWriter&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/Hanjo92/Architect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanjo92&repo=Architect&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=Architect&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <br/>
   <br/>
   <a href="https://github.com/Hanjo92/google-jules-skill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanjo92&repo=google-jules-skill&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=google-jules-skill&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/Hanjo92/unity-resource-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanjo92&repo=unity-resource-rag&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=unity-resource-rag&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
 
