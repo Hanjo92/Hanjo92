@@ -70,7 +70,8 @@
 ## 📫 Let's Connect!
 
 - **Portfolio/Blog:** [Hanjo92.github.io](https://Hanjo92.github.io)
-- **Contact:** `[gooldare@naver.com/https://www.linkedin.com/in/%EC%8A%B9%ED%9B%84-%EC%86%A1-04062a19b/]`
+- **Contact:** `[gooldare@naver.com/
+  - https://www.linkedin.com/in/%EC%8A%B9%ED%9B%84-%EC%86%A1-04062a19b/]`
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
