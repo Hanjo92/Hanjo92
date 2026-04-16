@@ -17,6 +17,33 @@
 
 <br>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="320" align="center" style="border: none;">
+        <a href="https://marketplace.visualstudio.com/items?itemName=hanjo92.nopilot">
+          <img src="./assets/nopilot_banner.png" width="280" alt="NoPilot Banner" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <h3>🚀 NoPilot: Next-Gen AI Assistant</h3>
+        <p><i>The multi-provider AI coding assistant that gives you the freedom to choose your LLM.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Provider-Claude%20|%20GPT%20|%20Gemini-blueviolet?style=flat-square" alt="Providers" />
+          <img src="https://img.shields.io/badge/Latency-0ms-success?style=flat-square" alt="Latency" />
+        </p>
+        <p>Support for <b>Claude 3.5, GPT-4o, Gemini 2.0</b>, and local <b>Ollama</b> models with ultra-fast caching and deep workspace context.</p>
+        <a href="https://marketplace.visualstudio.com/items?itemName=hanjo92.nopilot">
+          <img src="https://img.shields.io/visual-studio-marketplace/v/hanjo92.nopilot?style=for-the-badge&label=Install%20on%20Marketplace&color=2196f3&logo=visual-studio-code" alt="Install NoPilot" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<br>
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
