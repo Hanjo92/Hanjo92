@@ -68,27 +68,27 @@
 ## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/Hanjo92/unity-mcp-ui-layout">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=unity-mcp-ui-layout&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/Hanjo92/clean-code-architecture-skill-pack">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=clean-code-architecture-skill-pack&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <br/>
-  <br/>
   <a href="https://github.com/Hanjo92/NobelWriter">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=NobelWriter&theme=tokyonight&hide_border=true" width="48%" />
   </a>
+  <a href="https://github.com/Hanjo92/NoPilot">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=NoPilot&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/Hanjo92/unity-mcp-ui-layout">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=unity-mcp-ui-layout&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Hanjo92/unity-shader-graph-mcp">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=unity-shader-graph-mcp&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <br/>
+  <br/>
   <a href="https://github.com/Hanjo92/Architect">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=Architect&theme=tokyonight&hide_border=true" width="48%" />
   </a>
-  <br/>
-  <br/>
   <a href="https://github.com/Hanjo92/google-jules-skill">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=google-jules-skill&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/Hanjo92/unity-resource-rag">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=unity-resource-rag&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
 
