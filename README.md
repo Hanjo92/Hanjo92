@@ -1,144 +1,97 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Seunghu%20Song&fontSize=58&animation=fadeIn" width="100%" alt="Seunghu Song" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Seunghu%20Song&fontSize=56&animation=fadeIn" width="100%" alt="Seunghu Song" />
 
-  <h3>Unity Developer | AI Tool Builder | App & VS Code Extension Maker</h3>
+  <h3>AI-Native Product Builder · Unity Developer · App & Developer Tool Maker</h3>
 
   <p>
-    <a href="https://github.com/Hanjo92">
-      <img src="https://komarev.com/ghpvc/?username=Hanjo92&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+    <a href="https://www.vibeprogramminglab.com">
+      <img src="https://img.shields.io/badge/Vibe%20Programming%20Lab-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Vibe Programming Lab" />
+    </a>
+    <a href="https://apps.apple.com/kr/developer/seunghu-song/id1896557110">
+      <img src="https://img.shields.io/badge/App%20Store-3%20Apps-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Apps by Seunghu Song" />
     </a>
     <a href="https://marketplace.visualstudio.com/publishers/hanjo92">
       <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-hanjo92-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Marketplace publisher" />
     </a>
-    <a href="https://apps.apple.com/kr/app/%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%93%B0%EA%B8%B0%EC%9E%A5/id6768285000">
-      <img src="https://img.shields.io/badge/App%20Store-Japanese%20Writing%20Notebook-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Japanese Writing Notebook on the App Store" />
-    </a>
   </p>
 
   <p>
-    <i>Building developer tools and language-learning apps across VS Code, Unity, AI-agent workflows, and Apple platforms.</i>
+    <i>Building and shipping AI-powered developer tools, native apps, reusable Unity systems, and automated content workflows.</i>
   </p>
 </div>
 
-<br>
-
-## 🚀 Shipping Now
+## ✨ Featured Work
 
 <table>
   <tr>
     <td width="50%">
-      <h3>NoPilot</h3>
-      <p>A provider-switching AI coding assistant for VS Code with inline completions, inline chat, commit messages, usage visibility, and local or remote model endpoints.</p>
-      <p>
-        <a href="https://marketplace.visualstudio.com/items?itemName=hanjo92.nopilot">
-          <img src="https://img.shields.io/visual-studio-marketplace/v/hanjo92.nopilot?style=flat-square&label=Marketplace" alt="NoPilot version" />
-        </a>
-        <a href="https://github.com/Hanjo92/NoPilot">
-          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" alt="NoPilot source" />
-        </a>
-      </p>
+      <h3>Vibe Programming Lab</h3>
+      <p>A Korean technology publication covering AI coding tools, practical workflows, technical comparisons, and automation experiments.</p>
+      <p><a href="https://www.vibeprogramminglab.com"><strong>Visit the blog →</strong></a></p>
     </td>
     <td width="50%">
-      <h3>Git Roast</h3>
-      <p>A meme-forward VS Code extension and CLI companion that reviews staged Git diffs before commit, turning code review into a sharp little pre-flight ritual.</p>
-      <p>
-        <a href="https://marketplace.visualstudio.com/items?itemName=hanjo92.git-roast-reviewer">
-          <img src="https://img.shields.io/visual-studio-marketplace/v/hanjo92.git-roast-reviewer?style=flat-square&label=Marketplace" alt="Git Roast version" />
-        </a>
-        <a href="https://github.com/Hanjo92/git-roast">
-          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" alt="Git Roast source" />
-        </a>
-      </p>
+      <h3>Unity MCP UI Layout</h3>
+      <p>A portable Unity UI layout skill and prompt pack for Codex, Claude, and Google Antigravity.</p>
+      <p><a href="https://github.com/Hanjo92/unity-mcp-ui-layout"><strong>View the repository →</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>일본어 쓰기장</h3>
-      <p>An iPhone and iPad handwriting practice app for hiragana, katakana, words, and sentences, with local progress and custom word lists.</p>
+      <h3>NoPilot</h3>
+      <p>A provider-switching AI coding assistant for VS Code with inline completions, inline chat, commit messages, and local or remote model support.</p>
       <p>
-        <a href="https://apps.apple.com/kr/app/%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%93%B0%EA%B8%B0%EC%9E%A5/id6768285000">
-          <img src="https://img.shields.io/badge/App%20Store-Free-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Japanese Writing Notebook on the App Store" />
-        </a>
-        <img src="https://img.shields.io/badge/iOS-16.0%2B-black?style=flat-square&logo=apple" alt="iOS 16.0+" />
-        <img src="https://img.shields.io/badge/Category-Education-success?style=flat-square" alt="Education app" />
+        <a href="https://marketplace.visualstudio.com/items?itemName=hanjo92.nopilot"><strong>Install from Marketplace →</strong></a>
+        · <a href="https://github.com/Hanjo92/NoPilot">Source</a>
       </p>
     </td>
     <td width="50%">
-      <h3>VS Code Marketplace</h3>
-      <p>My extension publisher home for experiments that graduate into real developer workflow tools.</p>
-      <p>
-        <a href="https://marketplace.visualstudio.com/publishers/hanjo92">
-          <img src="https://img.shields.io/badge/Publisher-hanjo92-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="hanjo92 publisher page" />
-        </a>
-      </p>
+      <h3>Context-LSP</h3>
+      <p>A Codex-centered CLI and skill layer for context retrieval, project-brain bootstrapping, drift checks, diagnostics, and warning-first guardrails.</p>
+      <p><a href="https://github.com/Hanjo92/Context-LSP"><strong>View the repository →</strong></a></p>
     </td>
   </tr>
 </table>
 
-<br>
+## 📱 Apps on the App Store
 
-## 🧭 Active Projects
+| App | What it does | Platform |
+| --- | --- | --- |
+| **[Mikuji](https://apps.apple.com/kr/app/mikuji/id6806953653)** | A shrine-inspired, local-first space for writing down a thought, tying it away, and revisiting it later. | iPhone · iOS 15+ · Lifestyle |
+| **[receipt - 영수증 가계부](https://apps.apple.com/kr/app/receipt-%EC%98%81%EC%88%98%EC%A6%9D-%EA%B0%80%EA%B3%84%EB%B6%80/id6802234783)** | A privacy-first expense tracker with on-device receipt scanning, editable line items, statistics, and CSV export. | iPhone · iOS 18+ · Finance |
+| **[일본어 쓰기장](https://apps.apple.com/kr/app/%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%93%B0%EA%B8%B0%EC%9E%A5/id6768285000)** | Handwriting practice for hiragana, katakana, words, and sentences with local progress and custom word lists. | iPhone & iPad · iOS 16+ · Education |
 
-| Project                                                               | Focus                                                                                                                                           | Stack                       |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [Context-LSP](https://github.com/Hanjo92/Context-LSP)                 | Codex-centered CLI and skill layer for ContextPack retrieval, project-brain bootstrapping, warning-first guards, drift checks, and diagnostics. | JavaScript, CLI, Codex      |
-| [codex-goal-parser](https://github.com/Hanjo92/codex-goal-parser)     | Turns large software objectives into repo-aware Codex goal plans with verifiable sub-goals.                                                     | JavaScript, developer tools |
-| [NoPilot](https://github.com/Hanjo92/NoPilot)                         | Multi-provider AI coding assistant for VS Code with Claude, GPT, Gemini, Ollama, and OpenAI-compatible endpoints.                               | TypeScript, VS Code         |
-| [git-roast](https://github.com/Hanjo92/git-roast)                     | VS Code extension and CLI companion that reviews staged Git diffs before commit.                                                                | TypeScript, Git, VS Code    |
-| [clipnote](https://github.com/Hanjo92/clipnote)                       | Local-first CLI and Chrome extension for saving web pages and papers as structured Markdown notes.                                              | Python, Chrome extension    |
-| [unity-resource-rag](https://github.com/Hanjo92/unity-resource-rag)   | Unity UI asset-aware RAG pipeline with MCP sidecar and UPM tools for building real-resource interfaces from references.                         | Python, Unity, MCP          |
-| [unity-mcp-ui-layout](https://github.com/Hanjo92/unity-mcp-ui-layout) | Unity MCP UI layout skill and prompt pack for Codex, Claude, and Google Antigravity.                                                            | Unity, MCP, prompts         |
-| [NobelWriter](https://github.com/Hanjo92/NobelWriter)                 | AI-assisted workspace for Korean fiction and web-novel writing workflows.                                                                       | Python, writing tools       |
+<p align="right"><a href="https://apps.apple.com/kr/developer/seunghu-song/id1896557110">View all apps on the App Store →</a></p>
 
-<br>
+## 🧰 Open-Source Projects
 
-<div align="center">
-  <a href="https://github.com/Hanjo92/Context-LSP">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=Context-LSP&theme=tokyonight&hide_border=true" width="48%" alt="Context-LSP repository" />
-  </a>
-  <a href="https://github.com/Hanjo92/codex-goal-parser">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=codex-goal-parser&theme=tokyonight&hide_border=true" width="48%" alt="codex-goal-parser repository" />
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/Hanjo92/unity-mcp-ui-layout">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=unity-mcp-ui-layout&theme=tokyonight&hide_border=true" width="48%" alt="unity-mcp-ui-layout repository" />
-  </a>
-  <a href="https://github.com/Hanjo92/unity-resource-rag">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hanjo92&repo=unity-resource-rag&theme=tokyonight&hide_border=true" width="48%" alt="unity-resource-rag repository" />
-  </a>
-</div>
+| Project | Focus | Stack |
+| --- | --- | --- |
+| **[unity-mcp-ui-layout](https://github.com/Hanjo92/unity-mcp-ui-layout)** | Agent-ready Unity UI layout skill and prompt pack | Unity · MCP · Shell |
+| **[Context-LSP](https://github.com/Hanjo92/Context-LSP)** | Repo-aware context retrieval and guardrails for AI coding workflows | JavaScript · CLI · Codex |
+| **[HyperCasualModules](https://github.com/Hanjo92/HyperCasualModules)** | Reusable Unity 6 modules, LiveOps systems, and procedural puzzle gameplay | Unity · C# · UPM |
+| **[AI-Usage](https://github.com/Hanjo92/AI-Usage)** | Desktop usage widget for Cursor, Codex, Antigravity, and other AI coding tools | Python · macOS · Windows |
+| **[roguelike-game-designer-skill](https://github.com/Hanjo92/roguelike-game-designer-skill)** | Portable agent skill for designing roguelike systems, balance, progression, and procedural generation | Agent skills · Game design |
+| **[clipnote](https://github.com/Hanjo92/clipnote)** | Local-first CLI and Chrome extension that saves web pages and papers as structured Markdown | Python · Chrome extension |
+| **[unity-resource-rag](https://github.com/Hanjo92/unity-resource-rag)** | Asset-aware RAG pipeline and MCP sidecar for building Unity interfaces from references | Python · Unity · MCP |
 
-<br>
+## 🧩 VS Code Extensions
 
-## 🛠️ Tech Stack & Tools
+- **[NoPilot](https://marketplace.visualstudio.com/items?itemName=hanjo92.nopilot)** — multi-provider AI coding assistant with local-model support.
+- **[Git Roast](https://marketplace.visualstudio.com/items?itemName=hanjo92.git-roast-reviewer)** — a sharp pre-commit review ritual for staged Git diffs. [Source](https://github.com/Hanjo92/git-roast)
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,typescript,javascript,python,react,html,css,nodejs,github,apple,vscode" alt="Unity, C#, TypeScript, JavaScript, Python, React, HTML, CSS, Node.js, GitHub, Apple, VS Code" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,swift,typescript,javascript,python,react,html,css,nodejs,github,apple,vscode" alt="Unity, C#, Swift, TypeScript, JavaScript, Python, React, HTML, CSS, Node.js, GitHub, Apple, and VS Code" />
 </p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Hanjo92">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Hanjo92&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Seunghu's GitHub stats" height="192px" />
-  </a>
-  <a href="https://github.com/Hanjo92">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hanjo92&theme=tokyonight&layout=compact&hide_border=true" alt="Top languages" height="192px" />
-  </a>
-</div>
-
-<br>
 
 ## 📫 Connect
 
-- **Portfolio / Blog:** [Hanjo92.github.io](https://Hanjo92.github.io)
-- **VS Code Marketplace:** [marketplace.visualstudio.com/publishers/hanjo92](https://marketplace.visualstudio.com/publishers/hanjo92)
-- **App Store:** [일본어 쓰기장](https://apps.apple.com/kr/app/%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%93%B0%EA%B8%B0%EC%9E%A5/id6768285000)
-- **Email:** [gooldare@naver.com](mailto:gooldare@naver.com)
+- **Blog:** [Vibe Programming Lab](https://www.vibeprogramminglab.com)
+- **App Store:** [Apps by Seunghu Song](https://apps.apple.com/kr/developer/seunghu-song/id1896557110)
+- **VS Code Marketplace:** [hanjo92](https://marketplace.visualstudio.com/publishers/hanjo92)
 - **LinkedIn:** [Seunghu Song](https://www.linkedin.com/in/%EC%8A%B9%ED%9B%84-%EC%86%A1-04062a19b/)
+- **Email:** [gooldare@naver.com](mailto:gooldare@naver.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
