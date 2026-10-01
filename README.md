@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Vibe%20Programming%20Lab-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Vibe Programming Lab" />
     </a>
     <a href="https://apps.apple.com/kr/developer/seunghu-song/id1896557110">
-      <img src="https://img.shields.io/badge/App%20Store-3%20Apps-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Apps by Seunghu Song" />
+      <img src="https://img.shields.io/badge/App%20Store-Published%20Apps-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Apps by Seunghu Song" />
     </a>
     <a href="https://marketplace.visualstudio.com/publishers/hanjo92">
       <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-hanjo92-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Marketplace publisher" />
@@ -56,9 +56,11 @@
 
 | App | What it does | Platform |
 | --- | --- | --- |
-| **[Mikuji](https://apps.apple.com/kr/app/mikuji/id6806953653)** | A shrine-inspired, local-first space for writing down a thought, tying it away, and revisiting it later. | iPhone · iOS 15+ · Lifestyle |
+| **[Duskore Sudoku](https://apps.apple.com/kr/app/duskore-sudoku/id6812667645)** | Classic 9×9 Sudoku with four difficulty levels, pencil notes, undo, hints, and locally saved progress. | iPhone · iOS 15+ · Games |
+| **[Duskore Hexa Merge](https://apps.apple.com/kr/app/duskore-hexa-merge/id6806908222)** | A honeycomb number puzzle with matching-tile merges, scoring cascades, and Game Center leaderboards. | iPhone · iOS 15+ · Games |
+| **[Mikuji](https://apps.apple.com/kr/app/mikuji/id6806953653)** | A shrine-inspired, local-first space for writing down a thought, tying it away, and revisiting it later, with optional cloud sync. | iPhone · iOS 15+ · Lifestyle |
 | **[receipt - 영수증 가계부](https://apps.apple.com/kr/app/receipt-%EC%98%81%EC%88%98%EC%A6%9D-%EA%B0%80%EA%B3%84%EB%B6%80/id6802234783)** | A privacy-first expense tracker with on-device receipt scanning, editable line items, statistics, and CSV export. | iPhone · iOS 18+ · Finance |
-| **[일본어 쓰기장](https://apps.apple.com/kr/app/%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%93%B0%EA%B8%B0%EC%9E%A5/id6768285000)** | Handwriting practice for hiragana, katakana, words, and sentences with local progress and custom word lists. | iPhone & iPad · iOS 16+ · Education |
+| **[일본어 쓰기장](https://apps.apple.com/kr/app/%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%93%B0%EA%B8%B0%EC%9E%A5/id6768285000)** | Handwriting practice for hiragana, katakana, words, and sentences, with custom word lists, Anki vocabulary import, smart review, and iCloud sync. | iPhone & iPad · iOS 16+ · Education |
 
 <p align="right"><a href="https://apps.apple.com/kr/developer/seunghu-song/id1896557110">View all apps on the App Store →</a></p>
 
